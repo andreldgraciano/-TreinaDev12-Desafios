@@ -1,0 +1,7 @@
+fertilizantes
+():0,0=>7x3
+[]:3,4=>2x2
+
+sementes
+*:2,2=>3x4
++:3,3=>5x5
